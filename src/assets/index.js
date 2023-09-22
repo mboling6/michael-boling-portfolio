@@ -47,10 +47,12 @@ import bedtimeai from "./bedtimeai.png"
 import appstore from "./appstore.png"
 import skillswapper from "./skillswapper.png"
 import robot from "./robot.jpeg"
+import skillswap from "./skillswap.png"
 
 export {
   robot,
   skillswapper,
+  skillswap,
   appstore,
   bedtimeai,
   mui,

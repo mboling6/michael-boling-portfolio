@@ -1,6 +1,7 @@
 import {
   robot,
   skillswapper,
+  skillswap,
   github,
   appstore,
   bedtimeai,
@@ -281,7 +282,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: skillswapper,
+    image: skillswap,
     host_logo: github,
     source_code_link: "https://github.com/",
   },
