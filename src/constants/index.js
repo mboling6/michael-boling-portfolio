@@ -1,5 +1,7 @@
 import {
   robot,
+  netflix,
+  youtube,
   skillswapper,
   skillswap,
   github,
@@ -261,13 +263,35 @@ const projects = [
       },
     ],
     image: robot,
-    host_logo: github,
-    source_code_link: "https://github.com/",
+    host_logo: youtube,
+    source_code_link: "https://youtube.com/shorts/pYwMyf0vbbo",
   },
+  // {
+  //   name: "SkillSwapper",
+  //   description:
+  //     "Web application that enables users to search for other users with skills they want to learn, make posts, and setup times to exchange skills and grow. (WIP)",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "nodejs",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: skillswap,
+  //   host_logo: github,
+  //   source_code_link: "https://github.com/",
+  // },
   {
-    name: "SkillSwapper",
+    name: "Netflix Clone",
     description:
-      "Web application that enables users to search for other users with skills they want to learn, make posts, and setup times to exchange skills and grow. (WIP)",
+      "A clone of the popular Netflix webapp",
     tags: [
       {
         name: "react",
@@ -282,9 +306,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: skillswap,
+    image: netflix,
     host_logo: github,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/mboling6/netflix-clone",
   },
 ];
 

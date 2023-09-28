@@ -48,9 +48,13 @@ import appstore from "./appstore.png"
 import skillswapper from "./skillswapper.png"
 import robot from "./robot.jpeg"
 import skillswap from "./skillswap.png"
+import youtube from "./youtube.png";
+import netflix from "./netflix.jpeg";
 
 export {
   robot,
+  netflix,
+  youtube,
   skillswapper,
   skillswap,
   appstore,
